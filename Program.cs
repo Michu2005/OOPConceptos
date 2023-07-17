@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿//// Tipos de datos
 //int myint = 5;
 //double mydouble = 3.4;
